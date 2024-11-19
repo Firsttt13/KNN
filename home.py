@@ -4,8 +4,8 @@ import pandas as pd
 st.title("🎶website Deverloping using Python🎶")
 st.header("website Deverloping using Python")
 
-st.image('./img/IMG_7218.webp')
-st.subheader("Nattawat MTV🧸🎧🎸")
+st.image('./img/IMG_7218.jpg')
+st.subheader("Percc🦦")
 
 dt=pd.read_csv('./data/iris-3.csv')
 st.header()

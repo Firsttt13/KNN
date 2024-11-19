@@ -20,7 +20,7 @@ with col1:
 
 with col2:
    st.header("Verginiga")
-   st.image("./image/versicolor_2.png")
+   st.image("./image/Setosa2.jpg")
 
 with col3:
    st.header("Setosa")
@@ -81,7 +81,7 @@ if st.button("ทำนายผล"):
    if out[0] == 'Setosa':
     st.image("./image/versicolor_1 .png")
    elif out[0] == 'Versicolor':       
-    st.image("./image/versicolor_2.png")
+    st.image("./image/Setosa2.jpg")
    else:
     st.image("./image/virginica_3.png")
 else:
